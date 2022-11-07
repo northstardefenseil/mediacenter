@@ -96,7 +96,7 @@ Upgrade to Windows Server 2012 Essentials
 =========================================
 January 8, 2013 was the last day of support for :doc:`Windows Home Server v1 <../../software/deprecated/whs>`. In February 2016 I upgraded to :doc:`Windows Server 2012 with Windows Server Essentials <../../software/deprecated/wse>`.
 
-I basically followed `this article another person wrote on upgrading <http://www.wegotserved.com/2012/10/12/install-windows-server-2012-essentials-hp-mediasmart-server/>`_. I even made my own debug cable `rather than buying one <http://www.mediasmartserver.net/forums/viewtopic.php?f=6&t=8066>`_.
+I basically followed `this article another person wrote on upgrading <http://www.wegotserved.com/2012/10/12/install-windows-server-2012-essentials-hp-mediasmart-server/>`_<https://www.allhdd.com/evga-12g-p4-2992-kr-graphics-card/>. I even made my own debug cable `rather than buying one <http://www.mediasmartserver.net/forums/viewtopic.php?f=6&t=8066>`_.
 
 I thought I might have to upgrade the processor `which sounds painful <http://www.mediasmartserver.net/forums/viewtopic.php?f=2&t=1102>`_ because you need to modify the BIOS to support it... but it turned out the processor upgrade I already did supports WSE just fine.
 
